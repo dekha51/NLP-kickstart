@@ -3,5 +3,5 @@
 This Repository will discuss related to these topics:
 - Spam Classifier
 - Sentiment Analysis
-- Text Generation (soon)
+- Text Paraphrasing (soon)
 - Speech Classifier (soon)
